@@ -1,5 +1,5 @@
 # FileSplitter
-This script will split a large text/csv file into multiple files, all with the same row count.
+This script will split a large text/csv file into multiple files, all with the same row count. It's written in Python.
 I am using a (rather powerful) chrome extension for web crawling that's able to take JSON as a sitemap (list of sites to be crawled)
 However, it is limited to 10k websites per instance, as well as you must format the JSON in a particular manner.
 
